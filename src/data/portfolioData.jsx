@@ -11,8 +11,8 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/kevin-bobis-525732258/",
   github: "https://github.com/deiv-k",
   resumes: [
-    { label: "VA Resume", url: "/public/assets/Kevin Bobis - VA Resume.pdf" },
-    { label: "IT Resume", url: "public/assets/Kevin Bobis (Resume).pdf" },
+    { label: "VA Resume", url: "https://drive.google.com/file/d/19egyf-ggjeLSVDIhNKLzHz4vFVrr01kK/view?usp=drive_link" },
+    { label: "IT Resume", url: "https://drive.google.com/file/d/18xC_ciBRi_1D1-VipEN0PKNSQihpJ1QD/view?usp=drive_link" },
   ],
 };
 
